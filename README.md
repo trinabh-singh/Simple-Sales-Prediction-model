@@ -7,21 +7,26 @@ Simple Sales Prediction Model.ipynb – Jupyter Notebook containing data preproc
 Dataset file  – Used as input for training and testing the models
 
 🧠 Machine Learning Models Used
+
 -Linear Regression
 
 🛠 Technologies & Libraries
+
 -Python
 -NumPy
 -Pandas
 -Scikit-learn
 
 📊 Dataset
+
 It contains Sales Information.
 
 📈 Results
+
 -The models currently give average accuracy
 -Performance evaluation is done using basic metrics
 
 🎯 Project Objective
+
 -Predict Sales based on given info.
 -Learn and practice machine learning concepts.

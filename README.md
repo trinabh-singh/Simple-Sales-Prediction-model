@@ -8,7 +8,7 @@ Dataset file  – Used as input for training and testing the models
 
 🧠 Machine Learning Models Used
 
--Linear Regression
+-Random Forest
 
 🛠 Technologies & Libraries
 
